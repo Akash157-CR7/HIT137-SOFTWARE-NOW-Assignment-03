@@ -3,13 +3,7 @@
 A desktop "spot the difference" game built with **Python**, **Tkinter**, **OpenCV**, and **Pillow**.  
 Load any photo, find 5 hidden differences before running out of mistakes, and track your score across rounds.
 
----
 
-## Screenshots
-
-| Before loading | During play |
-|---|---|
-| Dark themed launch screen | Red circles mark found differences; blue circles show revealed ones |
 
 ---
 
@@ -22,7 +16,7 @@ Load any photo, find 5 hidden differences before running out of mistakes, and tr
 > Use **Python 3.11 or 3.12** instead.
 
 Download Python 3.11: https://www.python.org/downloads/release/python-3119/  
-Choose the **macOS 64-bit universal2 installer**.
+
 
 ### Step 2 — Install dependencies
 
