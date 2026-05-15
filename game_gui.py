@@ -1,4 +1,11 @@
 """
+GROUP DAN/EXT 32:
+
+•	ANGEL SHAHI         (s400420)
+•	ANJIT SHRESTHA      (s400533)
+•	AKASH SINGH         (s401643)
+•	DANIEL HARTREE      (s394765)
+
 game_gui.py
 -----------
 Complete Tkinter GUI for the Find the Difference game.
