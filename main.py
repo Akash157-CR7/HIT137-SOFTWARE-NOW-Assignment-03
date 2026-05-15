@@ -1,4 +1,11 @@
 """
+GROUP DAN/EXT 32:
+
+•	ANGEL SHAHI         (s400420)
+•	ANJIT SHRESTHA      (s400533)
+•	AKASH SINGH         (s401643)
+•	DANIEL HARTREE      (s394765)
+
 main.py
 -------
 Entry point — run this file to launch the game.
