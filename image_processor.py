@@ -1,4 +1,11 @@
 """
+GROUP DAN/EXT 32:
+
+•	ANGEL SHAHI         (s400420)
+•	ANJIT SHRESTHA      (s400533)
+•	AKASH SINGH         (s401643)
+•	DANIEL HARTREE      (s394765)
+
 image_processor.py
 ------------------
 Handles all OpenCV and Pillow operations for the game.
