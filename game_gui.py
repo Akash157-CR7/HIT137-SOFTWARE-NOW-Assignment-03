@@ -9,20 +9,6 @@ OOP concepts shown here:
     Class interaction — delegates logic to GameState, images to ImageProcessor
     Single responsibility — no OpenCV or game logic lives here
 
-Layout
-------
-    ┌─────────────────────────────────────────────────────┐
-    │  header: title + score + timer                      │
-    ├─────────────────────────────────────────────────────┤
-    │  toolbar: Load | Reveal | Restart  |  status text   │
-    ├──────────────────────┬──────────────────────────────┤
-    │  Original            │  Modified — click here       │
-    │  (reference only)    │  (clickable)                 │
-    └──────────────────────┴──────────────────────────────┘
-    │  footer: remaining · mistakes · hint                │
-    └─────────────────────────────────────────────────────┘
-"""
-
 from __future__ import annotations
 import time
 import tkinter as tk
